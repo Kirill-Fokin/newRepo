@@ -1,2 +1,1 @@
-hello
-friends
+some more text
